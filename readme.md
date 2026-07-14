@@ -6,33 +6,33 @@
 
 ## plant
 
-<video src="./plant.mp4" controls width="720"></video>
+<video src="./raw-video/plant.mp4" controls width="720"></video>
 
 ## plant-over
 
-<video src="./plant-over.mp4" controls width="720"></vi
+<video src="./exposure-video/plant-over.mp4" controls width="720"></video>
 
 ## plant-change
 
-<video src="./plant-change.mp4" controls width="720"></video>
+<video src="./exposure-video/plant-change.mp4" controls width="720"></video>
 
 ## plant-over-normalized
 
-<video src="./plant-over-normalized.mp4" controls width="720"></video>
+<video src="./exposure-video/plant-over-normalized.mp4" controls width="720"></video>
 
 ## plant-change-normalized
 
-<video src="./plant-change-normalized.mp4" controls width="720"></video>
+<video src="./exposure-video/plant-change-normalized.mp4" controls width="720"></video>
 
 ## bag
 
-<video src="./bag.mp4" controls width="720"></video>
+<video src="./CLIP-LEI-main/input_video/bag.mp4" controls width="720"></video>
 
 ## bag-clip-lit-hq
 
-<video src="./bag-clip-lit-hq.mp4" controls width="720"></video>
+<video src="./CLIP-LEI-main/inference_result/bag-clip-lit-hq.mp4" controls width="720"></video>
 
 
 ## bag-clip-lit-hq-denoise
 
-<video src="./bag-clip-lit-hq-denoise.mp4" controls width="720"></video>
+<video src="./CLIP-LEI-main/inference_result/bag-clip-lit-hq-denoise.mp4" controls width="720"></video>
